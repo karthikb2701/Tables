@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ec4646;
+  padding-top: 100px;
+}
+
+table {
+  margin: auto;
+  width: 500px;
+  height: 400px;
+  border-radius: 10px;
+  border-color: orange;
+}
+
+table,
+th,
+td {
+  border: 5px solid #f4f9f9;
+
+  text-align: center;
+  color: #f9f871;
+  font-size: 2rem;
+  background-color: #f58634;
+}
